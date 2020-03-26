@@ -1,1 +1,0 @@
-SELECT * FROM knex_migrations
