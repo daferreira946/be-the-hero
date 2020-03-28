@@ -39,7 +39,6 @@ export default function Profile() {
             alert('Erro ao deletar caso, tente novemente');
         }
     }
-
     function handleLogout() {
         localStorage.clear();
 
