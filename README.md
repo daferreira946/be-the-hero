@@ -52,3 +52,22 @@ npm start
 Ao abrir uma aba em seu navegador do **Expo DevTools** com o **QRCode**, baixe o aplicativo do **Expo** em sua [play store](https://play.google.com/store/apps/details?id=host.exp.exponent) e faça o Scan do QRCode em seu celular.
 
 - Lembre de configurar a baseUrl em `be-the-hero/mobile/src/service/api.js` para o seu ip externo, caso contrário o não vai funcionar se estiver usado o expo com celular físico.
+
+Utilizei as seguintes tecnologias:
+
+-  [Node.js](https://nodejs.org/en/)
+-  [Express](https://expressjs.com/)
+-  [nodemon](https://nodemon.io/)
+-  [Knex](http://knexjs.org/)
+-  [celebrate](https://www.npmjs.com/package/celebrate)
+-  [Sqlite3](https://www.npmjs.com/package/sqlite3)
+-  [Cors](https://www.npmjs.com/package/cors)
+-  [cross-env](https://www.npmjs.com/package/cross-env)
+-  [sucrase](https://www.npmjs.com/package/sucrase)
+-  [supertest](https://www.npmjs.com/package/supertest)
+-  [jest](https://www.npmjs.com/package/jest)
+-  [VS Code](https://code.visualstudio.com/) with [ESLint](https://eslint.org/)
+
+---
+
+Made with ♥ by Daniel Ferreira :wave: [linkedin](https://www.linkedin.com/in/daferreira946/)
